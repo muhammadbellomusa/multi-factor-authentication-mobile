@@ -68,7 +68,7 @@ Example Flow:
 
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/yourusername/react-native-mfa-auth.git
+git clone https://github.com/muhammadbellomusa/multi-factor-authentication-mobile
 cd react-native-mfa-auth
 ```
 
@@ -102,7 +102,7 @@ npm start
 ---
 
 ## 🖼 Screenshots
-*(Add your screenshots here after running the app)*  
+
 
 - Login Screen  
 - OTP Verification Screen  
