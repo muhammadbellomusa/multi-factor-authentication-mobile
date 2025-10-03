@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "67956473067",
+    "project_id": "two-factor-authenticatio-72196",
+    "storage_bucket": "two-factor-authenticatio-72196.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:67956473067:android:3589366d03b29d6228d2ae",
+        "android_client_info": {
+          "package_name": "com.yaya01.twoFacorAuthentication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7IAWiMR0ILA-YUm6cHhi_Sp0Hyowre_8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
